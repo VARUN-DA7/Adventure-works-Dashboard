@@ -44,6 +44,9 @@ Cleaned the data in Power query then imported into SQL to avoid loss of rows/dat
 
 Covered similar Insights and Charts across all modules.
 
+## Screenshots
+
+
 ## Insights/Suggestions & Recommendations 
 Company should reduce their Production cost in order to increase their Operational Efficiency.
 
