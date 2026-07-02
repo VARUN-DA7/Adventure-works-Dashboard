@@ -44,7 +44,17 @@ Cleaned the data in Power query then imported into SQL to avoid loss of rows/dat
 
 Covered similar Insights and Charts across all modules.
 
-## Screenshots
+## Dashboards
+<img width="1881" height="1034" alt="Adventure_Works_dashboard(Excel)" src="https://github.com/user-attachments/assets/fa8bcb9b-c825-4b7b-b5c5-49c05d5124f5" />
+
+
+<img width="1646" height="971" alt="Adventure_Works_dashboard(Tableau)" src="https://github.com/user-attachments/assets/74403689-20e4-4b2f-9dfb-03c10367ed6b" />
+
+## Queries
+
+<img width="1572" height="867" alt="SQL queries1" src="https://github.com/user-attachments/assets/ba29c51e-ade4-4472-9f2f-d7888c6538f8" />
+
+<img width="1577" height="868" alt="SQL queries2" src="https://github.com/user-attachments/assets/13ad095d-c0fe-4f5c-8ed1-a2799e24eafc" />
 
 
 ## Insights/Suggestions & Recommendations 
